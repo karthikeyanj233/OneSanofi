@@ -1,0 +1,88 @@
+.navebar{
+  background-color: #1976d2;
+  color: rgb(255, 255, 255);
+  height: 80px;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 0;
+  position: relative;
+}
+.row{
+  justify-content: center;
+}
+.navebar h1{
+  margin-top: 20px;
+  margin-left: 70px;
+}
+.navebar h4{
+  margin-left: 50px;
+  font-style: normal;
+  margin-top: 30px;
+}
+
+.navebar .sanofi{
+  margin-top: 10px;
+  margin-left: 180px;
+  width: 120px;
+  height: 60px;
+}
+.navebar .cognizant{
+  margin-right: 300px;
+  text-align: left;
+  margin-top: 20px;
+  width: 170px;
+  height: 40px;
+  cursor: pointer;
+  left: 30px;
+}
+
+
+.account{
+  margin-left: 70px;
+ width: 200px;
+  justify-content: space-around;
+  display: flex;
+  flex-direction: row;
+}
+.account h4{
+  width: 100px;
+  padding-right: 20px;
+  word-wrap: break-word;
+  color:white ;
+}
+
+.usericon{
+  margin-top: 80px;
+
+}
+
+
+@media screen and (max-width: 992px) {
+
+  .navebar h2 , h4 {
+
+    display: none;
+
+  }
+
+  .navebar h1{
+    
+    margin-left: 20px;
+    font-size: large;
+  }
+
+  .navebar{
+    justify-content: space-around;
+    height: auto;
+  border-radius: 0;
+  }
+img{
+  display: none;
+}
+.usericon{
+  display: none;
+}
+.dropdown{
+  display: none;
+}
+}

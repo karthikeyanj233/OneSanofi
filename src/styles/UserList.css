@@ -1,0 +1,17 @@
+.pagination-bar{
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+   
+}
+.dialogu_title{
+    display: flex;
+}
+.dialogu_title h2{
+    margin-left: 50px;
+}
+.close_icon{
+    font-size: 30px;
+    color: rgb(46, 59, 157);
+    cursor: pointer;
+}

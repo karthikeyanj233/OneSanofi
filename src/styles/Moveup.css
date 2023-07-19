@@ -1,0 +1,9 @@
+
+.moveup{
+    position: fixed;
+    bottom: 70px;
+    right: 0;
+    font-size: 40px;
+    width: 70px;
+    color: #1976d2;
+}

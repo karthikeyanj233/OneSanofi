@@ -1,0 +1,40 @@
+
+.add_user_button{
+    margin-left: 80%;
+    margin-bottom: 0;
+}
+
+.item{
+
+    backgroundColor:  'dark' ;
+
+    padding: 2px;
+
+    textAlign: 'center';
+
+    color: blue,
+
+}
+
+.dialogutitle{
+    display: flex;
+    margin: 30px;
+}
+.dialogutitle .add{
+  width: 100px;
+  margin-left: 10px;
+}
+.dialogutitle .close{
+ margin-left: 71%;
+ cursor: pointer;
+ font-size: 40px;  
+}
+.submitbutton{
+    text-align: center;
+}
+
+.dropdown{
+
+    width: 222px;
+
+}

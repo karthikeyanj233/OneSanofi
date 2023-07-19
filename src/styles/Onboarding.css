@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+
+.onboarding_heading{
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}

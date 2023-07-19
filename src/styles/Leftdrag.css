@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+.app {
+  background-color: white;
+  height: 100vh;
+  bottom: 0;
+}
+
+.menu1 {
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
